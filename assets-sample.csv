@@ -1,0 +1,5 @@
+AssetID,Type,BrandModel,SerialNumber,AssignedTo,Location,Status,PurchaseYear,NextCheckDate
+SAMPLE-001,Laptop,SampleBrand 14-inch,SN-SAMPLE-0001,Sample User A,Sample Office 1,In use,2023,2026-12-01
+SAMPLE-002,Desktop,SampleBrand Tower,SN-SAMPLE-0002,Unassigned,Sample Store Room,In stock,2022,2026-11-01
+SAMPLE-003,Printer,SampleBrand Laser,SN-SAMPLE-0003,Sample User B,Sample Office 2,Needs repair,2021,2026-10-30
+SAMPLE-004,Monitor,SampleBrand 24-inch,SN-SAMPLE-0004,Sample User A,Sample Office 1,In use,2024,2027-01-15
